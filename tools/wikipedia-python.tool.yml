@@ -1,0 +1,7 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/FuReSH/tool-storage-metadata/main/schemas/tool.schema.json
+---
+name: wikipedia-python
+wikidata-id: Q107384501 # Unique Wikidata identifier. Please look it up and create a new item on Wikidata if necessary
+classification:
+  smsp-categories:
+    - Q7397

@@ -1,0 +1,7 @@
+---
+# yaml-language-server: $schema=../schemas/tool.schema.json
+name: recogito
+wikidata-id: Q74692524
+classification:
+  smsp-categories:
+    - Q7397
